@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Joshi</h1>
-<h3 align="center">A beginner developer</h3>
+<h3 align="center">A noob developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.mkgifs.com/wp-content/uploads/2023/07/Gojo-GIF-Manga.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inferno005&label=Profile%20views&color=0e75b6&style=flat" alt="inferno005" /> </p>
